@@ -1,0 +1,6 @@
+/server/config.json
+/server/node_modules
+/server/dump
+.DS_Store
+/server/dump.20150611.3.tgz
+/assessment/node_modules
